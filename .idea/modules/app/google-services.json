@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124278880986",
+    "firebase_url": "https://fir-hermann90-apps.firebaseio.com",
+    "project_id": "fir-hermann90-apps",
+    "storage_bucket": "fir-hermann90-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124278880986:android:4323d651d1f8871b08c3e3",
+        "android_client_info": {
+          "package_name": "com.hermannproject.firebasehermann90apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124278880986-dq3p1cdhna6nq38gc1v845rf2r2f14lk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hermannproject.firebasehermann90apps",
+            "certificate_hash": "0c5a0c14f42358085a52165d2fbde102fbb176a5"
+          }
+        },
+        {
+          "client_id": "124278880986-fsq2is89fk6mdbqesm9csqo33qgaqi5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzROAsuyGfNLbPB4lh-Mhg_E1Anqcwe0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124278880986-fsq2is89fk6mdbqesm9csqo33qgaqi5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
